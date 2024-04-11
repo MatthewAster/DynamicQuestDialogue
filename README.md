@@ -1,5 +1,3 @@
-Controls: E to interact, J for journal, click to attack
-
 This is a dynamic quest and dialogue system. The full projects is available with a demonstration and blueprints used 
 primarily for UI elements and dialogue trees. Dialogue accounts for player skills, quest progress, and multiple options. 
 
